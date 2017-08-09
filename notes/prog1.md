@@ -1,13 +1,7 @@
-#### Programming Paradigm:
-- Logic Programming
-- Functional
-- Imperative
+### Logic Programming
+1. A programming paradigm differs from _functional_ and _imperative_ paradigms.
 
-#### Declarative:
-Require explanation in detail
+2. It has a _declarative_ reading. _Declarative Programming_ describes the logic of computation without expressing its control flow.
 
-#### Prolog Idea:
-Instead of telling the computer about how to solve a problem, we just specify the problem and let the machine solve it for us.
-
-#### Declarative Programming:
-It expresses the logic of a computation without describing its control flow.
+3. The inspiring idea is that:
+> We ask a question to the computer, and the computer gives the answer.
