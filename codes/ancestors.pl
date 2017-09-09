@@ -136,7 +136,6 @@ matrimonial_tie(X):-	% X is matrimonially tied if
 matrimonial_tie(X):-	% X is matrimonially tied if
     married(_, X).	% somebody is married to X.
 
-
 %   FOOTNOTE
 %   The symbol \== means "not the same as" (e.g. foo \== baz is true).
 %   The symbol \+ means "not provable" (e.g. \+ false is always true).
