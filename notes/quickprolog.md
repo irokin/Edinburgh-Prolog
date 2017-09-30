@@ -1,4 +1,4 @@
-backtrack**Prolog Cheat Sheet**:
+**Prolog Cheat Sheet**:
 
 | Symbol | Functionality | Comment
 | :-: | :-: | :-:
@@ -20,7 +20,7 @@ A rule with some predicate in its head can contain the reference to the same pre
 backtrack can be forced by typing a semi-colon after Prolog finds the first solution to the query.
 
 <p align="center">
-<img src="/Users/yulong/Documents/SourceTree/Edinburgh-Prolog/pics/backtrack.png">
+<img src="/Users/yulong/Documents/SourceTree/Edinburgh-Prolog/pics/backtrace.png">
 </p>
 
 

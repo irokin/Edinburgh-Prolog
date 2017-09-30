@@ -20,4 +20,5 @@ on_screen(Goal) :-
     Goal,
     write(Goal), nl,
     fail.
+
 on_screen(_).
