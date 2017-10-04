@@ -57,7 +57,7 @@ travelfromto(X, Y) :-
     travelfromto(Z, Y).
 
 %Exercise 3.4
-greaterthan(succ(X), 0).
+greaterthan(succ(_), 0).
 greaterthan(succ(X), succ(Y)) :-
     greaterthan(X, Y).
 
